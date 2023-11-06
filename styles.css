@@ -98,7 +98,11 @@ li {
 .section-three {
     background-color: lightcoral;
     height: 800px;
-
+    display: flex; 
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center; 
+    justify-content: center;
 }
 
 iframe { 
