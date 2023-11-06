@@ -2,13 +2,13 @@
 
 
 body{
-    background-color: limegreen;
+    background-color: #F20F22;
 }
 
 /* header sytles */
 
 header {
-    background-color: hotpink;
+    background-color: #FA7839;
     padding: 10px 0px 10px 0px;
     
     
@@ -85,7 +85,7 @@ li {
 /* section 2 center item */
 
 .section-two {
-    background-color: orangered;
+    background-color: #FA5639;
     height: 700px;
     display: flex;
     align-items: center; 
@@ -96,7 +96,7 @@ li {
 /* section 3 youtube video */
 
 .section-three {
-    background-color: lightcoral;
+    background-color: #F669A2;
     height: 800px;
     display: flex; 
     flex-wrap: wrap;
@@ -122,7 +122,7 @@ iframe {
 /* section 4 embed audio */
 
 .section-four {
-    background-color: darkslateblue;
+    background-color: #FAAA39;
     height: 500px;
     display: flex; 
     flex-wrap: wrap;
@@ -169,7 +169,7 @@ button {
 }
 
 button:hover {
-    background-color: limegreen;
+    background-color: #6D39FA;
     color: white;
 }
 
